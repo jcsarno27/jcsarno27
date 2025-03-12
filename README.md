@@ -18,7 +18,7 @@ I'm a passionate developer with experience in **Cybersecurity**, **Data Annotati
 - **Game dev** projects, particularly multiplayer games or simulation games.
 
 ## 📫 How to reach me:
-- Email: [Email Contact](juansarno2@gmail.com)
+- Email: [Personal Email](juansarno2@gmail.com)
 - LinkedIn: [LinkedIn Profile](www.linkedin.com/in/juan-sarno)
 
 
